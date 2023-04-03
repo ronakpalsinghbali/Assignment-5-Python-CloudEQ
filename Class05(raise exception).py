@@ -12,3 +12,5 @@ if g < 0 or g > 10 :
 
 else:
     print(f"Thank you!\nYour bank account will be credited with Rs.{g*10000} soon.")
+
+

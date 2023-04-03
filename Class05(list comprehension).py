@@ -37,4 +37,3 @@ my_new_list = [x for x in range(10)]
 
 print(f"Without condition:\n {my_new_list}")
 
-
